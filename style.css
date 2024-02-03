@@ -1,0 +1,22 @@
+h1{
+    font-family: fantasy;
+    text-decoration: underline;
+}
+
+body{
+    color: white;
+    background-image: url("file:///C:/Users/mdrakibul.islam/Desktop/aahil/download%20(1).jfif");
+    background-repeat: no-repeat;
+    background-size: 1450px 1000px;
+}
+
+img{
+    float: left;
+    width: 200px;
+    margin: 7px;
+    border-radius: 20px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    
+}
